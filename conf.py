@@ -25,7 +25,7 @@ author = 'Geek Daddy'
 copyright = '2016, ' + author
 
 # Change this to your blog root URL (required for RSS feed)
-website = 'https://geekdaddy.github.io/'
+website = 'http://geekdaddy.github.io/'
 
 # **************************************************************
 # More tweaks you can do
