@@ -3,7 +3,6 @@
 
 RSYNC := rsync
 SRCS := $(glob 20*/*/*/*.rst)
-DATE := $(date +%Y%m%d)
 
 all: build
 
@@ -21,5 +20,5 @@ sync: build $(SRCES)
 	rsync -av $(CURDIR)/blog/html/ ../geekdaddy.github.io/ ;\
 	cd ../geekdaddy.github.io/ ;\
 	git add . ;\
-	git commit -m "Update $$(DATE)" #;\
-	#git push -u origin gh-pages
+	git commit -m "Update `date +%Y%m%d`" ;\
+	git push -u origin gh-pages
