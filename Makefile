@@ -3,6 +3,7 @@
 
 RSYNC := rsync
 SRCS := $(glob 20*/*/*/*.rst)
+DATE := $(date +%Y%m%d)
 
 all: build
 
@@ -15,3 +16,10 @@ build: $(SRCES)
 	. ../.venv/bin/activate; \
 	tinker -b -q;\
 	deactivate;
+
+sync: build $(SRCES)
+	rsync -av $(CURDIR)/blog/html/ ../blog/ #;\
+	#cd ../blog/ ;\
+	#git add . ;\
+	#git commit -m "Update $(DATE)" #;\
+	#git push -u origin gh-pages
