@@ -1,0 +1,2 @@
+MarkupSafe
+sphinxjp.themes.tinkerturquoise
