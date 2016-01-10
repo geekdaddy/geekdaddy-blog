@@ -1,8 +1,9 @@
 #!/usr/bin/make -f
 # -*- makefile -*-
 
-RSYNC := rsync
 SRCS := $(glob 20*/*/*/*.rst)
+POST :=
+PAGE :=
 
 all: build
 
@@ -17,8 +18,16 @@ build: $(SRCES)
 	deactivate;
 
 sync: build $(SRCES)
-	rsync -av $(CURDIR)/blog/html/ ../geekdaddy.github.io/ ;\
+	rsync -av $(CURDIR)/blog/html/ ../geekdaddy.github.io/
+
+publish: sync $(SRCES)
 	cd ../geekdaddy.github.io/ ;\
 	git add . ;\
 	git commit -m "Update `date +%Y%m%d`" ;\
 	git push -u origin master
+
+post:
+	../.venv/bin/tinker -p "$(POST)"
+
+page:
+	../.venv/bin/tinker --page "$(PAGE)"
