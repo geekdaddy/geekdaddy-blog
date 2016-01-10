@@ -103,3 +103,7 @@ release = tinkerer.__version__
 html_title = project
 html_show_sourcelink = False
 html_add_permalinks = True
+
+
+def setup(app):
+    app.add_stylesheet('custom.css')
