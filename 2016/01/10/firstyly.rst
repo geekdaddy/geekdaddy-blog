@@ -15,5 +15,5 @@ CMVについては子供が感染しているとわかるまで知りません�
 
 .. author:: default
 .. categories:: TOACH
-.. tags:: CVM,難聴
+.. tags:: CMV,難聴
 .. comments::
