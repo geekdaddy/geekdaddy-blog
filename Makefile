@@ -18,8 +18,8 @@ build: $(SRCES)
 	deactivate;
 
 sync: build $(SRCES)
-	rsync -av $(CURDIR)/blog/html/ ../blog/ #;\
-	#cd ../blog/ ;\
+	rsync -av $(CURDIR)/blog/html/ ../geekdaddy.github.io/ #;\
+	#cd ../geekdaddy.github.io/ ;\
 	#git add . ;\
 	#git commit -m "Update $(DATE)" #;\
 	#git push -u origin gh-pages
