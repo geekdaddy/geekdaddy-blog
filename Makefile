@@ -21,4 +21,4 @@ sync: build $(SRCES)
 	cd ../geekdaddy.github.io/ ;\
 	git add . ;\
 	git commit -m "Update `date +%Y%m%d`" ;\
-	git push -u origin gh-pages
+	git push -u origin master
