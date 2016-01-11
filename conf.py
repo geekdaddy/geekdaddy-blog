@@ -38,7 +38,7 @@ disqus_shortname = 'ge2kdaddy'
 html_favicon = '_static/tinkerer.ico'
 
 # Pick another Tinkerer theme or use your own
-html_theme = 'tinkerturquoise'
+html_theme = 'geekdaddy'
 
 # Theme-specific options, see docs
 html_theme_options = {}
@@ -107,3 +107,4 @@ html_add_permalinks = True
 
 def setup(app):
     app.add_stylesheet('custom.css')
+    app.add_stylesheet('sns.css')
