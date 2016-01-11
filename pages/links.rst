@@ -7,5 +7,23 @@ CMV関連
 -------
 
 * `先天性トキソプラズマ＆サイトメガロウイルス感染症 患者会 「トーチの会」 <http://toxo-cmv.org/index.html>`_
+* `先天性ｻｲﾄﾒｶﾞﾛｳｲﾙｽ感染症で産まれた次女は難聴さん <http://www.dclog.jp/miyu_yura/>`_
+
+自閉症スペクトラム症候群関連
+----------------------------
+
+* `平岩幹男　ホームページ <http://rabbit.ciao.jp/>`_
+* `自閉症療育と幼児早期教育の広場 <http://autism-park.sunnyday.jp/index.html>`_
 
 
+異染性白質ジストロフィーMLD関連
+-------------------------------
+
+* `リナのブログ <http://rina1127.jugem.jp/>`_
+
+ヒューマンインターフェース関連
+------------------------------
+
+* `ONTENNA <http://ontenna.jp/>`_
+* `ヒューマンインターフェース研究室 <https://www.facebook.com/maglab/>`_
+* `島根大学総合理工学部 機械・電気電子工学科 磁気計測システム研究室 <http://www.mag.shimane-u.ac.jp/>`_
