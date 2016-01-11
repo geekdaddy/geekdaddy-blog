@@ -13,7 +13,7 @@ import tinkerer.paths
 project = 'Geek Daddy Blog'
 
 # Change this to the tagline of your blog
-tagline = u'TOACH症候群のこどもを持つ親の子育てブログ'
+tagline = u'TORCH症候群のこどもを持つ親の子育てブログ'
 
 # Change this to the description of your blog
 description = 'This is an awesome blog'

@@ -14,6 +14,6 @@ CMVについては子供が感染しているとわかるまで知りません�
 基本的には、妻の子育て日記を基にしますが、起きたことを時系列にするわけではありません。不定期で書いていく予定です。
 
 .. author:: default
-.. categories:: TOACH
+.. categories:: TORCH
 .. tags:: CMV,難聴
 .. comments::
