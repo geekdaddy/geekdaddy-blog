@@ -1,3 +1,10 @@
 .strike {
     text-decoration: line-through;
 }
+iframe {
+    float: left;
+    padding-right: 50px;
+}
+hr.docutils {
+    clear: both;
+}
