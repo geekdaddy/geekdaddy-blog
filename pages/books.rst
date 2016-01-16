@@ -10,7 +10,7 @@
 
 .. raw:: html
 
-   <iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_top&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=geekdaddy-22&o=9&p=8&l=as1&m=amazon&f=ifr&ref=tf_til&asins=4004314011" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+   <iframe class="books" src="http://rcm-fe.amazon-adsystem.com/e/cm?lt1=_top&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=geekdaddy-22&o=9&p=8&l=as1&m=amazon&f=ifr&ref=tf_til&asins=4004314011" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 
 下の子は発達も遅れています。これはCMVによる影響なのかは分かりません。しかし、白質(髄質) [#]_ にCMV感染症に特徴的な白質石灰化があることはCT :strike:`、MRI` による検査の結果分かっています。今後成長してった際にこれがどの程度、知能的な発達に影響があるのかは分かりませんが、自閉症も想定して、図書館で自閉症関連の図書を探していた際に見つけた本がこれです。自閉症とはどこからが正常でどこからが障害がある、というはっきりとした区切りができるわけではなく、人によって程度も異なり、同じ人でも常に同一というわけではなく、その時々の健康状態によっても変動がある、という理解です。いわゆる健常者の子供に対する子育ての仕方としてもとても勉強になることもあり、図書館で借りたあと、すぐに自分で購入しました。子育てをしている親御さんはぜひ御一読をお薦めします。
 
@@ -20,7 +20,7 @@
 
 .. raw:: html
 
-   <iframe src="http://rcm-fe.amazon-adsystem.com/e/cm?t=geekdaddy-22&o=9&p=8&l=as1&asins=4761267976&ref=tf_til&fc1=000000&IS2=1&lt1=_top&m=amazon&lc1=0000FF&bc1=FFFFFF&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+   <iframe class="books" src="http://rcm-fe.amazon-adsystem.com/e/cm?t=geekdaddy-22&o=9&p=8&l=as1&asins=4761267976&ref=tf_til&fc1=000000&IS2=1&lt1=_top&m=amazon&lc1=0000FF&bc1=FFFFFF&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 
 
 下の子もすでにもうすぐ2歳なのですが、2015年の年末にアデノウイルス感染症になり、夜中に何度も咳き込んでそのまま嘔吐するというのを繰り返していた時に見つけたタイトルです。この書籍自体は友人に頂きました。早く寝て、早く起きるように生活習慣を変更するための方法を説明されています。うちの子たちは寝るのがとても遅く、早くて21時、遅いと0時近くに寝るような生活習慣になってしまっています。なのでこの書籍を参考にこども達が早く寝る習慣に戻すチャレンジを行っています。
