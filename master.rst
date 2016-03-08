@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2016/03/09/again_the_symptoms_of_epilepsy
    2016/03/09/new_book_review
    2016/03/02/fourth_second_birthday
    2016/02/19/hearing_loss_has_improved
