@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2016/03/20/alice_also_the_same_symptoms
    2016/03/19/myoclonic_epilepsy
    2016/03/09/again_the_symptoms_of_epilepsy
    2016/03/09/new_book_review
