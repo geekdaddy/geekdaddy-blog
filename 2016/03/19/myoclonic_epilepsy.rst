@@ -14,6 +14,6 @@ CMV感染症の治療で聴力の改善が見られると、と思ったらま�
 .. [#] CMV感染症でてんかんになった人で、これになった事例があるらしいため
 
 .. author:: default
-.. categories:: none
-.. tags:: none
+.. categories:: てんかん
+.. tags:: ミオクロニー発作
 .. comments::
