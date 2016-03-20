@@ -18,7 +18,7 @@ build: $(SRCES)
 	deactivate;
 
 sync: build $(SRCES)
-	rsync -av --exclude '.nojekyll' --exclude '.git' --delete $(CURDIR)/blog/html/ ../geekdaddy.github.io/
+	rsync -av --exclude '.nojekyll' --exclude '.git' --exclude 'google89a373a2ce3930a3.html' --delete $(CURDIR)/blog/html/ ../geekdaddy.github.io/
 
 publish: sync $(SRCES)
 	cd ../geekdaddy.github.io/ ;\
