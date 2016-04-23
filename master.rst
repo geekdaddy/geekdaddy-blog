@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2016/04/24/schedule_determination_of_inspection_hospitalization
    2016/04/14/inspection_hospitalization
    2016/04/02/inspection_after_dosing_completion
    2016/03/24/finished_ganciclovir
