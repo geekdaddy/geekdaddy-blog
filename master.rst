@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2016/05/17/not_drink_powdered_milk
    2016/04/30/leaning_sign_language
    2016/04/24/schedule_determination_of_inspection_hospitalization
    2016/04/14/inspection_hospitalization
