@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2016/10/29/carol_recent_state
    2016/07/01/carol_caught_a_cold
    2016/06/23/learning_epilepsy
    2016/05/17/not_drink_powdered_milk
