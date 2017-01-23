@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2017/01/24/bone_fracture
    2017/01/03/hatsumode
    2016/12/25/strabismus
    2016/10/29/carol_recent_state
