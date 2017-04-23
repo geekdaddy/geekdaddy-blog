@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2017/04/24/carol_entered_a_kindergarten
    2017/01/24/bone_fracture
    2017/01/03/hatsumode
    2016/12/25/strabismus
