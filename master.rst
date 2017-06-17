@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2017/06/17/regular_check_up_feedback
    2017/04/24/carol_entered_a_kindergarten
    2017/01/24/bone_fracture
    2017/01/03/hatsumode
