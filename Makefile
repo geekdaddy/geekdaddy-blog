@@ -8,7 +8,7 @@ PAGE :=
 all: build
 
 prebuild:
-	virtualenv ../.venv
+	virtualenv -p /usr/bin/python3.6 ../.venv
 	../.venv/bin/pip install -r requirements.txt
 
 build: prebuild $(SRCES)
