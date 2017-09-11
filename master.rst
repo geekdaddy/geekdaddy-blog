@@ -4,6 +4,7 @@ Sitemap
 .. toctree::
    :maxdepth: 1
 
+   2017/09/11/epilepsy_wave_improved
    2017/08/26/eating_solid_matter
    2017/08/25/ainotecho
    2017/06/17/regular_check_up_feedback
